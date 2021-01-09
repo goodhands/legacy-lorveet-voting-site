@@ -1,0 +1,2 @@
+<?php 
+    $assetsUrl = "vendor/bootstrap";
